@@ -1,2 +1,2 @@
 # STM32F4
-demo for STM32F4
+DEMO for STM32F103 by using TICECE813-Q1
